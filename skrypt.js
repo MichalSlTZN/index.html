@@ -1,0 +1,1 @@
+alert("Dzień dobry, miłego oglądania gdyby brakowało jakiegoś zadania to dopiszę :)")

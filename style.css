@@ -1,0 +1,38 @@
+* {
+	margin: 10px;
+	padding: 0;
+}
+
+.tabela_pierwsza{
+	font-family: arial, sans-sherif;
+	font-size: 16px;
+}
+.tabela_pierwsza th {
+	background-color: green;
+	color: white;
+	border: 1px solid black;
+}
+.tabela_pierwsza td {
+	border: 1px solid black;
+	padding: 2px;
+}
+.tabela_druga {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+.tabela_druga table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tabela_druga th,
+.tabela_druga td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.tabela_druga th {
+  background-color: orange;
+  color: blue;
+}
